@@ -1,9 +1,11 @@
 # freeCodeCamp Relational Database Projects
 
 This repository contains my completed projects for the **freeCodeCamp Relational Database Certification**.  
-Each project demonstrates database design, SQL queries, and scripting using PostgreSQL and Bash.
+Each project demonstrates core relational database concepts, SQL querying, and scripting using **PostgreSQL** and **Bash**.
 
-## Projects
+---
+
+## 📦 Projects
 
 ### 🌌 Celestial Bodies Database
 A PostgreSQL database that models celestial objects such as galaxies, stars, planets, and moons.
@@ -23,7 +25,7 @@ A command-line application built with **Bash** and **PostgreSQL** that allows us
 
 **Key concepts:**
 - Bash scripting
-- Database interaction with `psql`
+- Database interaction using `psql`
 - User input handling
 - CRUD operations
 
@@ -31,13 +33,30 @@ A command-line application built with **Bash** and **PostgreSQL** that allows us
 
 ---
 
-## Technologies Used
+### ⚽ World Cup Database
+A relational database that stores match results from the **final three rounds of FIFA World Cup tournaments since 2014**.  
+The project includes database creation, CSV data import, and advanced SQL queries executed via Bash scripts.
+
+**Key concepts:**
+- Database schema design
+- Foreign key relationships
+- Importing data from CSV files
+- Writing efficient SQL queries
+- Automating queries with Bash
+
+📁 Folder: `worldcup/`
+
+---
+
+## 🛠️ Technologies Used
 - PostgreSQL
 - SQL
 - Bash
 - Git & GitHub
 
-## Certification
+---
+
+## 🎓 Certification
 These projects are part of the  
 **freeCodeCamp Relational Database Certification**.
 
@@ -45,6 +64,5 @@ These projects are part of the
 
 ---
 
-## Author
+## 👤 Author
 **Ju2025Ra**
-
