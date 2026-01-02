@@ -74,6 +74,7 @@ A **PostgreSQL** database of chemical elements with a **Bash** script to query e
 - Backup and restore of PostgreSQL databases
 
 📁 Folder: `periodic_table/`
+
 ---
 
 ## 🛠️ Technologies Used
