@@ -63,6 +63,19 @@ A **Bash** script that lets users guess a randomly generated number between 1 an
 
 ---
 
+### 🧪 Periodic Table Database
+A **PostgreSQL** database of chemical elements with a **Bash** script to query elements by atomic number, symbol, or name. The project includes database normalization, data corrections, and a command-line interface for retrieving element properties.
+
+**Key concepts:**
+- Database normalization and relationships
+- Data integrity with NOT NULL and UNIQUE constraints
+- Bash scripting for database queries and formatted output
+- Git workflow with structured commits
+- Backup and restore of PostgreSQL databases
+
+📁 Folder: `periodic_table/`
+---
+
 ## 🛠️ Technologies Used
 - PostgreSQL
 - SQL
