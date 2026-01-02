@@ -8,7 +8,7 @@ Each project demonstrates core relational database concepts, SQL querying, and s
 ## 📦 Projects
 
 ### 🌌 Celestial Bodies Database
-A PostgreSQL database that models celestial objects such as galaxies, stars, planets, and moons.
+A **PostgreSQL** database that models celestial objects such as galaxies, stars, planets, and moons.
 
 **Key concepts:**
 - Relational database design
@@ -49,7 +49,7 @@ The project includes database creation, CSV data import, and advanced SQL querie
 ---
 
 ### 🎲 Number Guessing Game
-A Bash script that lets users guess a randomly generated number between 1 and 1000, while tracking player statistics in a PostgreSQL database.
+A **Bash** script that lets users guess a randomly generated number between 1 and 1000, while tracking player statistics in a **PostgreSQL** database.
 
 **Key concepts:**
 - Bash scripting with loops, conditionals, and input validation
