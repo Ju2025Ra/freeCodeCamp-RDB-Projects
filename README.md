@@ -48,6 +48,21 @@ The project includes database creation, CSV data import, and advanced SQL querie
 
 ---
 
+### 🎲 Number Guessing Game
+A Bash script that lets users guess a randomly generated number between 1 and 1000, while tracking player statistics in a PostgreSQL database.
+
+**Key concepts:**
+- Bash scripting with loops, conditionals, and input validation
+- Random number generation and guessing game logic
+- PostgreSQL database to store usernames, games played, and best scores
+- SQL queries executed from Bash scripts
+- Handling new vs returning users
+- Git workflow with multiple commits following conventional messages
+
+📁 Folder: `number_guessing_game/`
+
+---
+
 ## 🛠️ Technologies Used
 - PostgreSQL
 - SQL
